@@ -199,8 +199,10 @@ footer{
     color: red;
 }
 
-.setting .box-foot ,
-.panel .box-foot 
+.setting .box-foot , .panel .box-foot 
 {
     font-size: 20px;
+}
+.text{
+    font-size: 15px;
 }
