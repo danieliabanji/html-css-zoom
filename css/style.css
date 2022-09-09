@@ -176,6 +176,19 @@ footer{
     text-align: center;
     padding:0 10px;
 }
+
+.box-name{
+    display: none;
+}
+
+
+.box:hover .box-name{
+    display: inline-block;
+}
+
+
+
+
 .fa-solid.fa-angle-up{
     font-size: 12px;
 }
